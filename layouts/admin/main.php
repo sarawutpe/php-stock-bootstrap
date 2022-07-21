@@ -32,11 +32,6 @@
           </div>
         </div>
       </header>
-
-      <div >
-        dasboard
-      </div>
-
       <div class="container-fluid">
         <div class="row">
           <nav
